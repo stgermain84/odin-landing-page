@@ -1,0 +1,16 @@
+.first {
+    display: flex;
+    align-items: center;
+}
+.navbar-left {
+    margin-left: auto;
+}
+.navbar-right {
+    align-items: right;
+}
+
+.third {
+    display: flex;
+    align-items: center;
+    border: 2px solid red;
+}
